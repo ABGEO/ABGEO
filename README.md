@@ -14,6 +14,12 @@ I’m middle Software Engineer, having over 3 years of experience in Back-End de
 - [Medium](https://medium.com/@abgeo07)
 - [DEV Community](https://dev.to/abgeo)
 
+#### :coffee: Buy me a coffee
+
+- [PayPal](https://www.paypal.me/ABGEO)
+- [Patreon](https://www.patreon.com/ABGEO)
+- [Open Collective](https://opencollective.com/ABGEO)
+
 <!--
 **ABGEO/ABGEO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
