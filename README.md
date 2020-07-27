@@ -4,7 +4,7 @@
 
 #### :information_source: About me
 
-I’m a middle Software Engineer, having over 3 years of experience in Back-End development from [Georgia](https://en.wikipedia.org/wiki/Georgia_(country)) 🇬🇪. I’m the author and maintainer of several PHP libraries and modules, the creator and co-owner of an online competition system for learning programming - [Informatics.Ge](https://informatics.ge/) and Open Source contributor. I contributed to well-known projects and companies such as Symfony, phpMyAdmin, Slim Framework, Composer, Wodby and etc.
+I’m a middle Software Engineer, having over 3 years of experience in Back-End development, from [Georgia](https://en.wikipedia.org/wiki/Georgia_(country)) 🇬🇪. I’m the author and maintainer of several PHP libraries and modules, the creator and co-owner of an online competition system for learning programming - [Informatics.Ge](https://informatics.ge/) and Open Source contributor. I contributed to well-known projects and companies such as Symfony, phpMyAdmin, Slim Framework, Composer, Wodby and etc.
 
 #### 📫 How to reach me
 
@@ -20,6 +20,13 @@ I’m a middle Software Engineer, having over 3 years of experience in Back-End 
 - [PayPal](https://www.paypal.me/ABGEO)
 - [Patreon](https://www.patreon.com/ABGEO)
 - [Open Collective](https://opencollective.com/ABGEO)
+
+---
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/abgeo/count.svg" />
+</p>
 
 <!--
 **ABGEO/ABGEO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
