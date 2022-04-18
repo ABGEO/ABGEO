@@ -4,7 +4,7 @@
 
 #### :information_source: About me
 
-I am a Software Engineer, having over 4 years of experience in Back-End development, 
+I am a Software Engineer, having solid experience in Back-End development, 
 from [Georgia](https://en.wikipedia.org/wiki/Georgia_(country)) 🇬🇪. I am the author and maintainer of several PHP 
 libraries and Drupal modules. My Library [gen-md](https://github.com/ABGEO/gen-md) is a 
 [winner of the PHP Innovation Award](https://www.phpclasses.org/winners/year/2020#winners-2020-08-01).
@@ -41,6 +41,10 @@ companies such as Symfony, phpMyAdmin, Slim Framework, Composer, Wodby, Imbo, Th
 #### 🎧 Spotify Playing
 
 [![Spotify](https://spotify.abgeo.dev)](https://open.spotify.com/user/fwdo5st33ekjxmh1o4fa7ay6l)
+
+#### 📖 goodreads Updates
+
+![goodreads](https://goodreads.abgeo.dev)
 
 #### :chart_with_upwards_trend: Github Stats
 
