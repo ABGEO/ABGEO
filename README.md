@@ -44,7 +44,7 @@ companies such as Symfony, phpMyAdmin, Slim Framework, Composer, Wodby, Imbo, Th
 
 #### 📖 goodreads Updates
 
-![goodreads](https://goodreads.abgeo.dev)
+[![goodreads](https://goodreads.abgeo.dev)](https://www.goodreads.com/abgeo)
 
 #### :chart_with_upwards_trend: Github Stats
 
