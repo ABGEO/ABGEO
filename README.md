@@ -4,7 +4,7 @@
 
 #### :information_source: About me
 
-I am a Software Engineer, having solid experience in Back-End development, 
+I am a Semopr Brain Fucker , having solid experience in Javascript development, 
 from [Georgia](https://en.wikipedia.org/wiki/Georgia_(country)) 🇬🇪. I am the author and maintainer of several PHP 
 libraries and Drupal modules. My Library [gen-md](https://github.com/ABGEO/gen-md) is a 
 [winner of the PHP Innovation Award](https://www.phpclasses.org/winners/year/2020#winners-2020-08-01).
